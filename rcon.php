@@ -4,7 +4,7 @@
 ## Version       : 1.0
 ## Date          : 2022-07-01
 ## Author        : LHammonds
-## Source        : https://github.com/LHammonds/php/blob/master/rcon.php
+## Source        : https://github.com/LHammonds/php/blob/main/rcon.php
 ## Purpose       : Linux command line utility to execute rcon commands
 ## Compatibility : Verified on Ubuntu Server 22.04 LTS
 ## Requirements  : apt install php7.4-cli
